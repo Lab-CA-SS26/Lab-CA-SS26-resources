@@ -33,7 +33,8 @@ We will use Git for version control and collaboration. In particular, we will us
 ## Reference Papers
 For each project, we will refer to the following papers:
 - Graph isomorphism:
-  - [Weisfeiler-Lehman algorithm](https://www.jmlr.org/papers/volume12/shervashidze11a/shervashidze11a.pdf)
+  - [1dim-Weisfeiler-Leman algorithm](https://link.springer.com/article/10.1007/s00224-016-9686-0)
+  - [Weisfeiler-Lehman graph kernels](https://www.jmlr.org/papers/volume12/shervashidze11a/shervashidze11a.pdf)
   - [Weisfeiler-Lehman blog](https://davidbieber.com/post/2019-05-10-weisfeiler-lehman-isomorphism-test/)
   - [Graph Isomorphism Network (GIN)](https://arxiv.org/pdf/1810.00826)
 - Graph similarity:
