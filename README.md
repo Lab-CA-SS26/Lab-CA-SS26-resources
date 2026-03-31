@@ -40,6 +40,11 @@ For each project, we will refer to the following papers:
 - Graph similarity:
   - [Graph Edit Distance via Integer Linear Programming (ILP)](https://www.vldb.org/pvldb/vol18/p4737-d%27ascenzo.pdf)
   - [Graph Edit Distance Graph Neural Network (GED-GNN)](https://www.vldb.org/pvldb/vol16/p1817-cheng.pdf)
+  - [Graph Matching via Path Following (Convex-Concave Program)](https://arxiv.org/pdf/0801.3654)
+  - [Graph Matching with low-rank permutation representation (Kissing number)](https://openreview.net/pdf?id=bXvmnpCMmq)
+  - [Combinatorial Graph Alignment (Sequential GNNs)](https://arxiv.org/pdf/2510.03086)
 - Node importance:
   - [Betweenness Centrality approximation via KADABRA algorithm](https://arxiv.org/pdf/1604.08553)
   - [BRAVA-GNN](https://arxiv.org/pdf/2602.09716)
+  - [ABCDE (for possible comparison)](https://peerj.com/articles/cs-699)
+  
